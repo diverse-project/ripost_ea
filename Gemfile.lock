@@ -45,6 +45,13 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
 
+PLATFORMS
+  universal-darwin-20
+  x86_64-linux
+  ruby
+  mri
+  jruby
+
 DEPENDENCIES
   jekyll (= 3.4.0)
   jekyll-feed (~> 0.6)
