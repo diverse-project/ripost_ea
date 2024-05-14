@@ -47,7 +47,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
-
+  x86_64-linux
 DEPENDENCIES
   jekyll (= 3.4.0)
   jekyll-feed (~> 0.6)
