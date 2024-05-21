@@ -13,7 +13,7 @@ Writing of scientific papers related to:
 
 - Q. Mazouni, H. Spieker, A. Gotlieb, M. Acher. A Review of Validation and Verification of Neural Network-based Policies for Sequential Decision Making. PFIA 2023, RJCIA, July 4-7, Strasbourg, France [Online](https://pfia23.icube.unistra.fr/conferences/rjcia/Actes/RJCIA2023_paper_5.pdf)
 - Q. Mazouni, A. Gotlieb, H. Spieker, M. Acher, B. Combemale. Metamorphic Testing of Optimality in AI Planners. Under Revision
-- L. Lesoil, H. Spieker, A. Gotlieb, M. Acher, P. Temple, A. Blouin, JM. Jézéquel. Learning Input-aware Performance Models of Configurable Systems: An Empirical Evaluation. Submitted to a journal
+- L. Lesoil, H. Spieker, A. Gotlieb, M. Acher, P. Temple, A. Blouin, JM. Jézéquel. Learning Input-aware Performance Models of Configurable Systems: An Empirical Evaluation. Journal of Systems and Software, 208, p.111883. [Online](https://www.sciencedirect.com/science/article/abs/pii/S0164121223002789) [Preprint](https://hal.science/hal-04271476)
 
 # Theses
 
