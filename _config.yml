@@ -18,8 +18,8 @@ email: resist-team@inria.fr
 description: RIPOST_EA is a research team between Inria/DiverSE and Simula
 baseurl: "/ripost_ea" # the subpath of your site, e.g. /blog
 url: "https://diverse-project.github.io/ripost_ea" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gemocinitiative
-github_username:  gemoc
+# twitter_username: gemocinitiative
+github_username:  diverse-project
 
 # Build settings
 markdown: kramdown
