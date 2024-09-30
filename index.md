@@ -14,8 +14,7 @@ The goal of the RIPOST associate team is to address systematically the reproduci
 The RIPOST associate team is composed of ten researchers, five from the Simula department VIAS within the [Software Engineering](https://www.simula.no/research/research-areas/software-engineering/) area and five researchers from the [DiverSE team](http://diverse.irisa.fr/) at Inria Rennes. The associate team will be jointly led by Associate Professor [Mathieu Acher](https://www.mathieuacher.com/) at the University of Rennes, and Research Professor [Arnaud Gotlieb](https://www.simula.no/people/arnaud) from Simula in Norway.
 
 Here are a few pointers:
- * the scientific content (problems solved, tasks performed) can be found through slides (see Github repo https://github.com/gemoc/resist or titles of talks in [Activities](activities)) and papers (see [publications](publications)) 
- * activities (visits, organisation of events, etc.) is available in [Activities](activities)
+ * activities (visits, organisation of events, etc.) are listed in [Activities](activities)
  * the outcome of RIPOST (publications, software, manuscripts, theses, masters, conference posters, etc.) is available in [publications](publications)
 
 <center>
