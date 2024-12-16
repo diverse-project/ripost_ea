@@ -13,7 +13,7 @@ the [VIAS team]([https://www.simula.no/research/software-engineering](https://ww
 research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
 * [Paul Temple](https://templep.github.io/), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
-* [Xhevahire Tërnava](https://ternava.github.io/), post-doc, University of Rennes 1 with expertise in variability and feature engineering, software debloating, and automated software engineering 
+* Gauthier Le Bartz Lyan, post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation
 * [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general 
 
 
