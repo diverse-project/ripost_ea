@@ -11,7 +11,7 @@ The associated team _Resilient and Reproducible Software_ (RIPOST) will research
 
 The goal of the RIPOST associate team is to address systematically the reproducibility testing challenge in computer science. It is the continuation of the earlier associate team RESIST_EA.
 
-The RIPOST associate team is composed of ten researchers, five from the Simula department VIAS within the [Software Engineering](https://www.simula.no/research/research-areas/software-engineering/) area and five researchers from the [DiverSE team](http://diverse.irisa.fr/) at Inria Rennes. The associate team will be jointly led by Associate Professor [Mathieu Acher](https://www.mathieuacher.com/) at the University of Rennes, and Research Professor [Arnaud Gotlieb](https://www.simula.no/people/arnaud) from Simula in Norway.
+The RIPOST associate team is composed of ten researchers, five from the Simula department VIAS within the [Software Engineering](https://www.simula.no/research/research-areas/software-engineering/) area and five researchers from the [DiverSE team](http://diverse.irisa.fr/) at Inria Rennes. The associate team will be jointly led by Professor [Mathieu Acher](https://www.mathieuacher.com/) at the University of Rennes (INSA Rennes, DiverSE Inria), and Research Professor [Arnaud Gotlieb](https://www.simula.no/people/arnaud) from Simula in Norway.
 
 Here are a few pointers:
  * activities (visits, organisation of events, etc.) are listed in [Activities](activities)
