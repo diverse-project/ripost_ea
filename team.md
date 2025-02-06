@@ -14,7 +14,8 @@ research interests include model driven software engineering (MDE), software lan
 * [Paul Temple](https://templep.github.io/), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * Gauthier Le Bartz Lyan, post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation
-* [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general 
+* [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general
+* [Théo Matricon](https://theomat.github.io/), postdoc, Inria with expertise in AI, program synthesis, and software engineering
 
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
