@@ -7,6 +7,10 @@ order: 3
 
 # Peer-Reviewed Publications
 
+## 2025
+
+- M. Acher, A. Gotlieb, H. Spieker, G. Le Bartz Lyan. Teaching Reproducibility and Embracing Variability: From Floating-Point Experiments to Replicating Research. _ACM Conference on Reproducibility and Replicability (ACM REP 2025)_.
+
 ## 2024
 
 We are proud to receive two awards at ISSTA and AST, on the core topics of RIPOST (reproducibility, testing, and AI), and two journal articles at JSS and STVR:
