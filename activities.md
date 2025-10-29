@@ -12,6 +12,16 @@ order: 2
 
 ## Visits Simula & Inria
 
+### 2025
+
+#### 29 - 31 November, Simula, Oslo
+ * RIPOST and Aasgard Horizon workshop => foster collaboration around reproducibility
+ * Medical Imaging => Paul Temple, Youenn Merel Jourdan
+ * Data Pipelines => Thomas Roehr
+ * ML => Paul Temple, Jorn Eirik Betten
+ * LLM as assistant for reproducibility => Mathieu Acher
+ * Group discussions and working plans
+
 ### 2024 
 
 #### 9 - 12 April, Simula, Oslo
