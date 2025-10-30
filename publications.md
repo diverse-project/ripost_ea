@@ -10,6 +10,7 @@ order: 3
 ## 2025
 
 - M. Acher, A. Gotlieb, H. Spieker, G. Le Bartz Lyan. Teaching Reproducibility and Embracing Variability: From Floating-Point Experiments to Replicating Research. _ACM Conference on Reproducibility and Replicability (ACM REP 2025)_.
+- Spieker, H., Matricon, T., Belmecheri, N., Betten, J.E., Lyan, G.L.B., Borges, H., Mazouni, Q., Gross, D., Gotlieb, A. and Acher, M., 2025. Prompting for performance: Exploring llms for configuring software. _37th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2025)_.
 
 ## 2024
 
