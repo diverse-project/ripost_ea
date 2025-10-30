@@ -14,8 +14,8 @@ research interests include model driven software engineering (MDE), software lan
 * [Paul Temple](https://templep.github.io/), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * Gauthier Le Bartz Lyan, post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation
-* [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general
 * [Théo Matricon](https://theomat.github.io/), postdoc, Inria with expertise in AI, program synthesis, and software engineering
+* Gauthier Le Bartz Lyan, postdoc, Inria, with expertise in data science, AI, software engineering
 
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
@@ -26,6 +26,7 @@ Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) 
 
 
 ### Alumni:
+* [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general
 * [Luc Lesoil](https://www.linkedin.com/in/luc-lesoil-ensai/), PhD student, University of Rennes 1 with expertise in machine learning, performance engineering, and
 software systems. Luc will bring his skills in statistical learning, data analysis, and software variations.
 * [Mohammed Bachir Belaid](https://www.simula.no/people/bachir), VIAS Dept., Postdoc with expertise in constraint programming and data mining, currently working on constraint acquisition for learning robot scheduling tasks.
