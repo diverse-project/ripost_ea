@@ -15,7 +15,6 @@ research interests include model driven software engineering (MDE), software lan
 * [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * Gauthier Le Bartz Lyan, post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation
 * [Théo Matricon](https://theomat.github.io/), postdoc, Inria with expertise in AI, program synthesis, and software engineering
-* Gauthier Le Bartz Lyan, postdoc, Inria, with expertise in data science, AI, software engineering
 
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
