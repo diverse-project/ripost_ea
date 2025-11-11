@@ -21,6 +21,7 @@ order: 2
  * ML => Paul Temple, Jorn Eirik Betten
  * LLM as assistant for reproducibility => Mathieu Acher
  * Group discussions and working plans
+ * This workshop was supported through funding from the [Åsgard Horizon mobility program of the French Institute of Norway](https://www.france.no/no/vitenskap-og-forskning/samarbeidsprogrammer/asgard-horizon/)
 
 ### 2024 
 
