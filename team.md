@@ -20,7 +20,7 @@ Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) 
 * [Quentin Mazouni](https://www.simula.no/people/quentin), PhD at SIMULA (since Aug. 2022), VIAS Dept., working on the validation of AI planning systems. 
 * [Nassim Belmecheri](https://www.simula.no/people/nassim), VIAS Dept., Research Scientist working on Machien Learning, Constraint Learning, AI explainability and Data mining.
 * [Jørn Eirik Betten](https://www.simula.no/people/jorneirik), PhD at Simula (since October 2023), VIAS Dept., working on the validation AI-based decision-making.
-
+* [Gauthier Le Bartz Lyan](https://scholar.google.fr/citations?user=d4_gYQMAAAAJ&hl=fr&oi=ao), Post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation]
 
 ### Alumni:
 * [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France. Benoit
