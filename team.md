@@ -9,10 +9,7 @@ RIPOST gathers the following members of the [DiverSE team](http://diverse.irisa.
 the [VIAS team]([https://www.simula.no/research/software-engineering](https://www.simula.no/research/projects/department-validation-intelligence-autonomous-software-systems)) ([Simula](https://www.simula.no), NO).
 
 * **[Mathieu Acher](https://www.mathieuacher.com/), Professor, Inria and INSA Rennes/IUF, France (Co-PI)** Mathieu's research interests include variability and configurable systems, machine learning, and performance testing, applied in the context of software-intensive systems. He will contribute to RIPOST by providing expertise on multimorphic testing and AI-based management of software variability/configurations.
-* [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France. Benoit
-research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
 * [Paul Temple](https://templep.github.io/), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
-* [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * Gauthier Le Bartz Lyan, post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation
 * [Théo Matricon](https://theomat.github.io/), postdoc, Inria with expertise in AI, program synthesis, and software engineering
 
@@ -22,9 +19,13 @@ Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) 
 * [Helge Spieker](https://www.simula.no/people/helge), VIAS Dept., Research Scientist with expertise in artificial intelligence (Machine Learning, Constraint Optimization) and software testing.
 * [Quentin Mazouni](https://www.simula.no/people/quentin), PhD at SIMULA (since Aug. 2022), VIAS Dept., working on the validation of AI planning systems. 
 * [Nassim Belmecheri](https://www.simula.no/people/nassim), Postdoctoral Fellow, working on AI explainability and data mining.
+* [Jørn Eirik Betten](https://www.simula.no/people/jorneirik), PhD at Simula (since October 2023), VIAS Dept., working on the validation AI-based decision-making.
 
 
 ### Alumni:
+* [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France. Benoit
+research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
+* [Olivier Barais](https://olivier.barais.fr), Professor, Inria and Univ. Rennes 1, France
 * [Aaron RANDRIANAINA](https://perso.eleves.ens-rennes.fr/people/georges-aaron.randrianaina/), PhD student, University of Rennes 1 with expertise in incremental build of software (configurations) and variability in general
 * [Luc Lesoil](https://www.linkedin.com/in/luc-lesoil-ensai/), PhD student, University of Rennes 1 with expertise in machine learning, performance engineering, and
 software systems. Luc will bring his skills in statistical learning, data analysis, and software variations.
