@@ -14,7 +14,7 @@ order: 2
 
 ### 2025
 
-#### 29 - 31 November, Simula, Oslo
+#### 29 - 31 October, Simula, Oslo
  * RIPOST and Aasgard Horizon workshop => foster collaboration around reproducibility
  * Medical Imaging => Paul Temple, Youenn Merel Jourdan
  * Data Pipelines => Thomas Roehr
