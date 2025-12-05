@@ -14,6 +14,8 @@ order: 2
 
 ### 2025
 
+ * Bi-weekly virtual meetings
+
 #### 29 - 31 October, Simula, Oslo
  * RIPOST and Aasgard Horizon workshop => foster collaboration around reproducibility
  * Medical Imaging => Paul Temple, Youenn Merel Jourdan
