@@ -21,7 +21,7 @@ Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) 
 * [Nassim Belmecheri](https://www.simula.no/people/nassim), VIAS Dept., Research Scientist working on Machien Learning, Constraint Learning, AI explainability and Data mining.
 * [Jørn Eirik Betten](https://www.simula.no/people/jorneirik), PhD at Simula (since October 2023), VIAS Dept., working on the validation AI-based decision-making.
 * [Gauthier Le Bartz Lyan](https://scholar.google.fr/citations?user=d4_gYQMAAAAJ&hl=fr&oi=ao), Post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation]
-
+* [Heraldo Borges](https://github.com/heraldoborges/), Post-doc, Inria with expertise in AI, data science, NLP, machine learning and time series. 
 ### Alumni:
 * [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), Professor, Inria and Univ. Rennes 1, France. Benoit
 research interests include model driven software engineering (MDE), software language engineering (SLE) and software validation & verification (V&V); mostly applied in the context of (smart) cyber-physical systems and Internet of things. He will contribute to RESIST by providing expertise on the modelling continuum and digital twins. 
