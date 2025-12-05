@@ -23,6 +23,19 @@ order: 2
  * Group discussions and working plans
  * This workshop was supported through funding from the [Åsgard Horizon mobility program of the French Institute of Norway](https://www.france.no/no/2024/vitenskap-og-forskning/laureats-du-programme-asgard-horizon-2025/)
 
+#### Visit of Théo Matricon, June, Simula, Oslo
+ * LLMs for software configuration
+ * Benchmarking LLMs
+ * Benchmark minimization
+
+#### 14 - 16 January, Simula, Oslo
+ * RIPOST workshop
+ * "The RIPOST Year in Review" (Mathieu Acher, Helge Spieker)
+ * reproducibility of neuro-imaging pipelines (Gauthier Le-Bartz-Lyan)
+ * reproducibility of computational science (Mathieu Acher)
+ * LLMs for software configuration (Helge Spieker)
+ * Low Cost Performance Comparison (Théo Matricon)
+
 ### 2024 
 
 #### 9 - 12 April, Simula, Oslo
