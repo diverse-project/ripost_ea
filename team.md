@@ -18,7 +18,7 @@ the [VIAS team]([https://www.simula.no/research/software-engineering](https://ww
 Head of the VIAS Dept. (Validation Intelligence of Autonomous Software Systems) with expertise in Software Validation and Verification of software-intensive systems and Artificial Intelligence for Software Testing. His recent research interests include the usage of constraint optimization and machine learning to improve software testing processes.
 * [Helge Spieker](https://www.simula.no/people/helge), VIAS Dept., Research Scientist with expertise in artificial intelligence (Machine Learning, Constraint Optimization) and software testing.
 * [Quentin Mazouni](https://www.simula.no/people/quentin), PhD at SIMULA (since Aug. 2022), VIAS Dept., working on the validation of AI planning systems. 
-* [Nassim Belmecheri](https://www.simula.no/people/nassim), VIAS Dept., Research Scientist with expertise working on AI explainability and data mining.
+* [Nassim Belmecheri](https://www.simula.no/people/nassim), VIAS Dept., Research Scientist working on Machien Learning, Constraint Learning, AI explainability and Data mining.
 * [Jørn Eirik Betten](https://www.simula.no/people/jorneirik), PhD at Simula (since October 2023), VIAS Dept., working on the validation AI-based decision-making.
 
 
