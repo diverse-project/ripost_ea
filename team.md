@@ -12,7 +12,8 @@ the [VIAS team]([https://www.simula.no/research/software-engineering](https://ww
 * [Paul Temple](https://templep.github.io/), Associate Professor, Inria and Univ. Rennes 1, France. Paul is tackling new challenges about software engineering, software testing, software variability and machine learning.
 * [Gauthier Le Bartz Lyan](https://scholar.google.fr/citations?user=d4_gYQMAAAAJ&hl=fr&oi=ao), Post-doc, Inria, with expertise in automated software engineering, data science, NLP, machine learning, and data transportation
 * [Théo Matricon](https://theomat.github.io/), postdoc, Inria with expertise in AI, program synthesis, and software engineering
-* [Heraldo Borges](https://github.com/heraldoborges/), postdoc, Inria with expertise in AI, data science, NLP, machine learning and time series. 
+* [Heraldo Borges](https://github.com/heraldoborges/), postdoc, Inria with expertise in AI, data science, NLP, machine learning and time series.
+* [Youenn Merel Jourdan] PhD student, Inria with expertise in sofwtare engineering and neuroimaging https://team.inria.fr/empenn/team-members/youenn-merel-jourdan/
 
 
 * **[Arnaud Gotlieb](https://www.simula.no/people/arnaud), Research Professor, Simula Research Laboratory, Norway (Co-PI)**
