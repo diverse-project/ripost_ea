@@ -15,7 +15,7 @@ order: 2
 ### 2026
 
  * Bi-weekly virtual meetings
- * [1st VARDE Workshop, Paris](varde)
+ * [1st VARDE Workshop, Paris](varde2026)
 
 ### 2025
 
