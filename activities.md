@@ -12,6 +12,11 @@ order: 2
 
 ## Visits Simula & Inria
 
+### 2026
+
+ * Bi-weekly virtual meetings
+ * [1st VARDE Workshop, Paris](varde)
+
 ### 2025
 
  * Bi-weekly virtual meetings
@@ -67,4 +72,3 @@ order: 2
 
 * Talk at WS SIMULA - 7 & 8 Octobre 2024: Mathieu Acher “From Software Resilience to Reproducibility”
 * Talk at WS SIMULA - 7 & 8 Octobre 2024: Arnaud Gotlieb: "AI for the Validation of Autonomous Systems"
-
