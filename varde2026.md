@@ -26,7 +26,7 @@ The workshop is supported by the Inria associate team RIPOST and the Institut fr
 |       | Collaborative Sessions                  |
 | 17:30 | Group presentations + closing           |
 |       | Break / Go to hotel                     |
-| 19:00 | Joint dinner (self-organized)           |
+| 19:00 | Dinner (self-organized)           |
 
 
 ### Day 2 / Tuesday 23.06.
